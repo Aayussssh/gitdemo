@@ -1,0 +1,91 @@
+1.
+Write a Java program to display default value of all primitive 
+data types of java
+
+2.
+Write a program to arrange the numbers in ascending order(Array).
+3.
+Write a program to create a room class, the attributes of this class is
+roomno, roomtype, roomarea and ACmachine. In this class the member
+functions are setdata and displaydata.
+4.
+Write a program create a class ‘simpleobject‘. Using constructor 
+display the message. 
+5.
+Write a program to demonstrate static variables, 
+methods, and blocks. 
+6.
+Write a program to create a class named shape. In this class we 
+have three sub classes circle, triangle and square each class 
+has two member function named draw () and erase (). 
+Create these using polymorphism concepts. 
+
+7.
+Write a program to create interface A in this interface we have two
+method meth1 and meth2. Implements this interface in another class
+named MyClass. 
+8.
+Write a program to create interface named test. In this interface 
+the member function is square. Implement this interface in 
+arithmetic class.Create one new class called ToTestInt in this 
+class use the object of arithmetic class. 
+
+9.
+Create class Number with only one private instance variable as a double
+primitive type. To include the following methods (include respective
+constructors) isZero( ), isPositive(), isNegative( ), isOdd( ), isEven( ),
+isPrime(), isAmstrong() the above methods return boolean primitive type.
+getFactorial(), getSqrt(), getSqr(), sumDigits(), getReverse() the above
+methods return double primitive type. void listFactor(), void dispBinary(). 
+
+10.
+Write a program to create a package named mypack and import it in 
+circle class. 
+
+11.
+Write a program for example of try and catch block. In this check
+whether the given array size is negative or not. 
+
+12.
+Write a program to illustrate creation of threads using runnable
+class.(start method start each of the newly created thread. Inside the run
+method there is sleep() for suspend the thread for 500 milliseconds). 
+13.
+Write a multithreading program in java to display 
+all the alphabets from A to Z after 3 seconds.
+
+14.
+Write a Java program to iterate through all elements 
+in a array list.
+
+15.
+Write a Java program to insert an element into 
+the array list at the first position.
+
+16.
+Enter Student Detail and Print them Using parameterized constructor.
+
+17.
+Write a Multilevel Inheritance
+
+Employee 
+        Emp_Id Emp_Name Emp_Salary
+	Working_Days
+	6 Month attendence
+	calculate total attendence days
+Salary 
+	if Total_days >=150 then salary increment by
+	original salary with 50% other wise 25%
+	print employee information with attendence 
+	total present days and updated salary.
+Bonus
+	Define bonus 
+	net_salary=salary+bonus.
+	(updated salary value used)
+
+18.
+ Write a program create Employee class with following 
+members Emp_id Emp_Name Salary and department. create
+array object for four employee and print all employee
+information in tabular format. print the employee information
+whoes highest salary.(Array Object)
